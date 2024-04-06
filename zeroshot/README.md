@@ -3,6 +3,10 @@ packaged using poetry
 
 zeroshot is the package name and all required dependencies are in the pyproject.toml file
 
+it uses a zero-shot classifier that is found in the huggingface library
+it takes text and a list of candidate labels, whichever the label that is more associated with the text gets returned with a confidence score 
+both inputs and outputs are in json formats
+
 to run you would need poetry to make a virtual enviroment and install the required packages
 
 then open zeroshot with uvicorn to be able to do post requests, i used thunder to make the request but you can use any other extension you like

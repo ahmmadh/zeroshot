@@ -7,7 +7,7 @@ to run you would need poetry to make a virtual enviroment and install the requir
 
 then open zeroshot with uvicorn to be able to do post requests, i used thunder to make the request but you can use any other extension you like
 
-you can look at the schema at /doc if you're using uvicorn under userRequest
+you can look at the schema at /doc if you're using uvicorn under userRequest or use the interactive api
 
 model used for the classification is digitalepidemiologylab/covid-twitter-bert-v2-mnli found at: https://huggingface.co/digitalepidemiologylab/covid-twitter-bert-v2-mnli
 

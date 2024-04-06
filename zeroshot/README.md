@@ -13,5 +13,5 @@ you can look at the schema at /doc if you're using uvicorn under userRequest or 
 model used for the classification is digitalepidemiologylab/covid-twitter-bert-v2-mnli found at: https://huggingface.co/digitalepidemiologylab/covid-twitter-bert-v2-mnli
 
 
-
+aalhelali99@hotmail.com
 
